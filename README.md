@@ -2,7 +2,7 @@
 
 <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ffae6765-b1c1-45ab-959d-bb6b8a0e3401" />
 <br>
-For shortcut add layers for Adobe After Effects 
+Shortcut for add layers Adobe After Effects 
 <br><br>
 Script had:
 
