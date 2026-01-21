@@ -17,4 +17,5 @@ Put this jsx file in <br>
 C:\Program Files\Adobe\Adobe After Effects 2023\Support Files\Scripts\ScriptUI Panels
 
 <br>
-<img width="148" height="348" alt="image" src="https://github.com/user-attachments/assets/553ab8a9-1cb7-43fc-b362-0ac13bf4beb8" />
+<img width="672" height="344" alt="image" src="https://github.com/user-attachments/assets/95a0045b-e63d-46eb-9589-8226c6e36bbb" />
+
